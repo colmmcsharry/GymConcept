@@ -240,6 +240,10 @@ so anything narrower */
     order: 3;
   }
 
+  .info h2{
+    color:yellow;
+  }
+
   .portfolio h1 {
     color: yellow;
     display: flex;
